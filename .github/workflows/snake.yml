@@ -8,12 +8,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake
+      - name: 🐍 Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: akash274545
@@ -21,11 +20,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: 🚀 Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-          TARGET_BRANCH: output
