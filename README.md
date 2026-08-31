@@ -216,16 +216,32 @@ hands-on experience.
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Akash's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akash274545&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Akash's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Akash's Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash274545&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Akash's Top Languages"
+  />
 </p>
 
+---
+### 🔥 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akash274545&theme=tokyo-night&hide_border=true"
+    alt="Akash's GitHub Activity Graph"
+  />
+</p>
 ---
 
 ## 🤝 Connect With Me
