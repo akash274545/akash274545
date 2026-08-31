@@ -164,9 +164,19 @@ hands-on experience.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash274545&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akash274545&show_icons=true&theme=dark&hide_border=true"
+    alt="Akash's GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash274545&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash274545&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    alt="Akash's Top Languages"
+  />
+</p>
 
 ---
 
