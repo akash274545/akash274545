@@ -154,7 +154,7 @@ hands-on experience.
 ## 🏆 Achievements
 
 - 🥇 **1st Rank** — Shivaji University Merit/Rank Order, 2023–24
-- 🚀 **Top Performer** — GenAI Study Jam 2024, GDG JJMagdum College
+- 🚀 **Top Performer** — GenAI Study Jam 2024, GDG Dr.J.J. Magdum College of Engineering.
 - 💼 **Pune Metro Internship** — 2026
 - 🛠️ Built and maintained multiple full-stack and web applications
 - 🚀 Developed multiple real-world software projects
