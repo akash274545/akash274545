@@ -232,6 +232,8 @@ hands-on experience.
   <img
     src="./profile/stats.svg"
     alt="Akash's GitHub Stats"
+    width="530"
+    style="max-width: 100%; height: auto;"
   />
 </p>
 
@@ -239,6 +241,8 @@ hands-on experience.
   <img
     src="./profile/top-langs.svg"
     alt="Akash's Most Used Languages"
+    width="530"
+    style="max-width: 100%; height: auto;"
   />
 </p>
 
