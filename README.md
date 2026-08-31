@@ -142,8 +142,6 @@ hands-on experience.
 
 ## 📜 Certifications
 
-## 📜 Certifications & Achievements
-
 - 🏆 [Shivaji University Merit / Rank — 1st](./certificates/shivaji-university-rank.jpg)
 - 💻 [DSA with Java — Apna College](./certificates/dsa-java.pdf)
 - 🤖 [NxtWave — AI for Students Workshop](./certificates/nxtwave-ai-workshop.png)
