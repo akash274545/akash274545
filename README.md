@@ -216,22 +216,29 @@ hands-on experience.
 
 ---
 
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Akash's GitHub Stats" />
+  <img
+    src="./profile/stats.svg"
+    alt="Akash's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Akash's Top Languages" />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Akash's Most Used Languages"
+  />
 </p>
 
----
 ### 🔥 Contribution Activity
 
 <p align="center">
-  <img src="./profile/activity.svg" alt="Akash's Contribution Activity" />
+  <img
+    src="https://raw.githubusercontent.com/akash274545/akash274545/activity-graph/activity-graph.svg"
+    alt="Akash's GitHub Contribution Activity"
+  />
 </p>
 ---
 
