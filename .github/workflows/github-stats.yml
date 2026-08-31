@@ -1,4 +1,4 @@
-name: Update GitHub Stats
+name: Update GitHub Profile Stats
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate-stats:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,10 +32,30 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated cards
+      - name: Commit Stats Cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update GitHub stats" || exit 0
+          git commit -m "Update GitHub profile stats" || exit 0
           git push
+
+  generate-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Contribution Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: akash274545
+          options: theme=github-compact&hide_border=true&area=false
+          output_path: activity/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Activity Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: activity
+          target_branch: activity-graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
