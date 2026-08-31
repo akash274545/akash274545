@@ -231,10 +231,7 @@ hands-on experience.
 ### 🔥 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akash274545&theme=tokyo-night&hide_border=true"
-    alt="Akash's GitHub Activity Graph"
-  />
+  <img src="./profile/activity.svg" alt="Akash's Contribution Activity" />
 </p>
 ---
 
