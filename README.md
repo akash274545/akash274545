@@ -244,17 +244,24 @@ hands-on experience.
 ---
 ## 🤝 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/akash-narayankar-873200268/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/AkashNarayank27">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/akash274545">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akash-narayankar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/AkashNarayank27">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:akashn2745@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
+<a href="https://maps.app.goo.gl/zqijKUV9hRRxso9a7">
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</a>
 
 ---
 
