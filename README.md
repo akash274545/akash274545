@@ -142,18 +142,68 @@ hands-on experience.
 
 ## 📜 Certifications
 
-- 🏆 [Shivaji University Merit / Rank — 1st](./certificates/shivaji-university-rank.jpg)
-- 💻 [DSA with Java — Apna College](./certificates/dsa-java.pdf)
-- 🤖 [NxtWave — AI for Students Workshop](./certificates/nxtwave-ai-workshop.png)
-- 🏅 [GenAI Study Jam — Top Performer](./certificates/genai-study-jam-top-performer.png)
-- 🎓 [GenAI Study Jam — Completion](./certificates/genai-study-jam-completion.png)
-- ☁️ [Google Cloud — Basics of Google Cloud Compute](./certificates/google-cloud-compute.png)
-- 🗄️ [Harvard CS50 — Introduction to Databases with SQL](./certificates/harvard-cs50-sql.pdf)
-- 🌐 [KnowledgeGate — HTML Certification Test](./certificates/knowledgegate-html.pdf)
-- 💼 [LinkedIn Learning — Digital Body Language](./certificates/linkedin-digital-body-language.pdf)
-- ☕ [MKCL — Advanced Java Programming Concepts](./certificates/mkcl-advanced-java.jpg)
-- 💻 [Git & GitHub Bootcamp](./certificates/git-github.pdf)
-- 👨‍💻 [Central Coding Club — Guest Lecture](./certificates/central-coding-club.pdf)
+### 💻 Programming & Development
+
+- **Advanced Java Programming Concepts and Techniques**  
+  Maharashtra Knowledge Corporation Limited (MKCL)  
+  📄 [View Certificate](./certificates/mkcl-advanced-java.jpg)
+
+- **Alpha (DSA with Java)**  
+  Apna College  
+  📄 [View Certificate](./certificates/dsa-java.pdf)
+
+- **HTML Certification Test – YouTube Course**  
+  KnowledgeGate  
+  📄 [View Certificate](./certificates/knowledgegate-html.pdf)
+
+- **Introduction to Databases with SQL**  
+  CS50 – Harvard University  
+  📄 [View Certificate](./certificates/harvard-cs50-sql.pdf)
+
+---
+
+### 🤖 AI & Emerging Technologies
+
+- **GenAI Study Jam 2024 – Certificate of Completion**  
+  Google Developers Group (GDG) – JJ Magdum College of Engineering  
+  🖼️ [View Certificate](./certificates/genai-study-jam-completion.png)
+
+- **GenAI Study Jam 2024 – Top Performer**  
+  Google Developers Group (GDG) – JJ Magdum College of Engineering  
+  🖼️ [View Certificate](./certificates/genai-study-jam-top-performer.png)
+
+- **AI for Students: Build Your Own Generative AI Model**  
+  NxtWave  
+  🖼️ [View Certificate](./certificates/nxtwave-ai-workshop.png)
+
+- **The Basics of Google Cloud Compute**  
+  Google Cloud  
+  🖼️ [View Certificate](./certificates/google-cloud-compute.png)
+
+---
+
+### 🏆 Academic Achievement
+
+- **1st Rank – Shivaji University Examination 2023–24**  
+  B.Tech Information Technology  
+  Dr. J. J. Magdum College of Engineering, Jaysingpur  
+  🖼️ [View Certificate](./certificates/shivaji-university-rank.jpg)
+
+---
+
+### 🌐 Professional & Other Certifications
+
+- **Git & GitHub Bootcamp**  
+  LetsUpgrade  
+  📄 [View Certificate](./certificates/git-github.pdf)
+
+- **Digital Body Language**  
+  LinkedIn Learning  
+  📄 [View Certificate](./certificates/linkedin-digital-body-language.pdf)
+
+- **Central Coding Club – Guest Lecture**  
+  Central Coding Club  
+  📄 [View Certificate](./certificates/central-coding-club.pdf)
 
 ## 🏆 Achievements
 
