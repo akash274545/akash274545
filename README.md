@@ -15,7 +15,7 @@ databases and modern web technologies.
 
 - 🎓 Pursuing **M.Tech in Computer Engineering**
 - 💻 Interested in **Java Full Stack Development**
-- ☕ Strong interest in **Core Java & Spring Boot**
+- ☕ Strong interest in **Core Java, Spring Boot & React**
 - 🌐 Building web applications using **React**
 - 🗄️ Working with **MySQL, MongoDB & Firebase**
 - 🚀 Interested in developing real-world software solutions
@@ -140,13 +140,17 @@ hands-on experience.
 
 ---
 
-## 📜 Certifications & Achievements
+## 📜 Certifications
 
-- 🎓 B.Tech in Information Technology
-- 🎓 Pursuing M.Tech in Computer Engineering
-- 💼 Pune Metro Internship
-- 💻 Java Full Stack Development
-- 🚀 Hands-on experience with multiple software projects
+- Java Full Stack Development — 
+- SQL / Database Certification — [Certificate]
+- Git & GitHub — [Certificate]
+
+## 📜 Certifications
+
+- Java Full Stack Development — [Certificate]
+- SQL / Database Certification — [Certificate]
+- Git & GitHub — [Certificate]
 
 ---
 
