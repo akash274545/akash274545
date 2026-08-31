@@ -66,7 +66,7 @@ attendance marking and management using modern web technologies.
 
 **Technologies:** Java • Spring Boot • React • Firebase
 
-🔗 [View Project](https://github.com/akash274545/Smart-Attendance-Marking-System)
+🔗 [View Project](https://github.com/akash274545/Smart-Attendance-Marking-System-Deploy)
 
 ---
 
