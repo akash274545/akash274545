@@ -142,14 +142,20 @@ hands-on experience.
 
 ## 📜 Certifications
 
-- ☕ **Advanced Java Programming Concepts and Techniques** — MKCL
-- 🐙 **Git & GitHub Bootcamp** — LetsUpgrade
-- 🗄️ **Introduction to Databases with SQL** — CS50, Harvard University
-- 💻 **Alpha DSA with Java** — Apna College
-- 🌐 **HTML Certification Test** — KnowledgeGate
-- ☁️ **The Basics of Google Cloud Compute** — Google Cloud
-- 🤖 **AI for Students: Build Your Own Generative AI Model** — NxtWave
-- 🗣️ **Digital Body Language** — LinkedIn Learning
+## 📜 Certifications & Achievements
+
+- 🏆 [Shivaji University Merit / Rank — 1st](./certificates/shivaji-university-rank.jpg)
+- 💻 [DSA with Java — Apna College](./certificates/dsa-java.pdf)
+- 🤖 [NxtWave — AI for Students Workshop](./certificates/nxtwave-ai-workshop.png)
+- 🏅 [GenAI Study Jam — Top Performer](./certificates/genai-study-jam-top-performer.png)
+- 🎓 [GenAI Study Jam — Completion](./certificates/genai-study-jam-completion.png)
+- ☁️ [Google Cloud — Basics of Google Cloud Compute](./certificates/google-cloud-compute.png)
+- 🗄️ [Harvard CS50 — Introduction to Databases with SQL](./certificates/harvard-cs50-sql.pdf)
+- 🌐 [KnowledgeGate — HTML Certification Test](./certificates/knowledgegate-html.pdf)
+- 💼 [LinkedIn Learning — Digital Body Language](./certificates/linkedin-digital-body-language.pdf)
+- ☕ [MKCL — Advanced Java Programming Concepts](./certificates/mkcl-advanced-java.jpg)
+- 💻 [Git & GitHub Bootcamp](./certificates/git-github.pdf)
+- 👨‍💻 [Central Coding Club — Guest Lecture](./certificates/central-coding-club.pdf)
 
 ## 🏆 Achievements
 
