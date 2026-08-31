@@ -142,15 +142,23 @@ hands-on experience.
 
 ## 📜 Certifications
 
-- Java Full Stack Development — 
-- SQL / Database Certification — [Certificate]
-- Git & GitHub — [Certificate]
+- ☕ **Advanced Java Programming Concepts and Techniques** — MKCL
+- 🐙 **Git & GitHub Bootcamp** — LetsUpgrade
+- 🗄️ **Introduction to Databases with SQL** — CS50, Harvard University
+- 💻 **Alpha DSA with Java** — Apna College
+- 🌐 **HTML Certification Test** — KnowledgeGate
+- ☁️ **The Basics of Google Cloud Compute** — Google Cloud
+- 🤖 **AI for Students: Build Your Own Generative AI Model** — NxtWave
+- 🗣️ **Digital Body Language** — LinkedIn Learning
 
-## 📜 Certifications
+## 🏆 Achievements
 
-- Java Full Stack Development — [Certificate]
-- SQL / Database Certification — [Certificate]
-- Git & GitHub — [Certificate]
+- 🥇 **1st Rank** — Shivaji University Merit/Rank Order, 2023–24
+- 🚀 **Top Performer** — GenAI Study Jam 2024, GDG JJMagdum College
+- 💼 **Pune Metro Internship** — 2026
+- 🛠️ Built and maintained multiple full-stack and web applications
+- 🚀 Developed multiple real-world software projects
+- 🎓 B.Tech in Information Technology
 
 ---
 
