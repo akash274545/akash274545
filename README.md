@@ -232,7 +232,7 @@ hands-on experience.
   />
 </p>
 
-### 🔥 Contribution Activity
+## 🔥 Contribution Activity
 
 <p align="center">
   <img
@@ -240,8 +240,8 @@ hands-on experience.
     alt="Akash's GitHub Contribution Activity"
   />
 </p>
----
 
+---
 ## 🤝 Connect With Me
 
 <p align="left">
