@@ -7,6 +7,14 @@
   />
 </p>
 
+---
+
+<img
+  src="./profile/developer.gif"
+  alt="Developer Animation"
+  width="320"
+  align="right"
+/>
 
 # 👋 Hii, I'm Akash Narayankar
 
@@ -19,7 +27,8 @@ Currently pursuing **M.Tech in Computer Engineering** and continuously
 improving my skills in backend development, full-stack applications,
 databases and modern web technologies.
 
----
+<br clear="both"/>
+
 
 ## 👨‍💻 About Me
 
