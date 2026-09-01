@@ -27,6 +27,11 @@ Currently pursuing **M.Tech in Computer Engineering** and continuously
 improving my skills in backend development, full-stack applications,
 databases and modern web technologies.
 
+🌐 Live Portfolio
+
+🚀 **Visit my portfolio:**  
+https://akash-n-portfolio.netlify.app
+
 <br clear="both"/>
 
 
