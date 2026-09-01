@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Akash Narayankar
+
+<p align="center">
+  <img
+    src="./profile-banner.png"
+    alt="Akash Narayankar - Java Full Stack Developer"
+    width="100%"
+  />
+</p>
+
+
+# 👋 Hii, I'm Akash Narayankar
 
 ### 💻 Java Full Stack Developer | M.Tech Computer Engineering
 
