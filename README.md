@@ -147,7 +147,7 @@ information.
 🔗 [View Project](https://github.com/akash274545/meal-tracker)
 
 ---
-
+<!--
 ## 💼 Experience
 
 ### Pune Metro — Internship
@@ -159,7 +159,7 @@ and developing technical and problem-solving skills through
 hands-on experience.
 
 ---
-
+-->
 ## 🎓 Education
 
 ### M.Tech — Computer Engineering
